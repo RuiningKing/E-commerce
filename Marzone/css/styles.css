@@ -22,7 +22,7 @@ nav {
     font-weight: 600;
     letter-spacing: 0.5;
     transition: color 0.3s;
-    color: #282828 !important;
+    color:   #b0b0b0 !important;
 }
 .nav-link:hover {
     color: #DDA0DD !important;
