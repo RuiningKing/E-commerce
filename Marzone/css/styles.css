@@ -12,7 +12,7 @@ header {
 }
 nav {
     background:     #4B0082;
-    height: 5.5rem;
+    height: 4rem;
     z-index: 1;
     box-shadow: 5px 5px 15px 0 rgb(31 31 31 / 7%);
 }
@@ -42,15 +42,7 @@ nav {
     color: #f25454;
 }
 
-.carousel-control {
-    background: transparent;
-    border-width: 1px 1px 1px 0px;
-    border-color: #f0ebe2;
-    border-style: solid;
-    width: 50px;
-    height: 50px;
-    position: relative;
-}
+
 .header-control {
     position: absolute;
     top: 50%;
@@ -69,40 +61,28 @@ nav {
     background-color: #fff;
     transition: width 0.5s;
 }
-/*.carousel-control:hover .button-hover{
-    width: 100%;
-}
-.carousel-control:hover .header-control {
-    color: #f25454;
-}
-.rounded-top-end {
-    border-top-right-radius: 3px;
-}
-.rounded-bottom-end {
-    border-bottom-right-radius: 3px;
-}
-.home-text {
-    font-size: 70px;
-    line-height: 1;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-}
-.home-container {
-    left: 100%;
-}
-.carousel-item div {
-    visibility: hidden;
-}
-.carousel-item.active div{
-    animation: moveTitle 0.8s;
-    animation-fill-mode: forwards;
-}
+/*====================MenuBar======================*/
 
+    
+
+.tab-content{padding:.625rem}
+.tabs-x .tab-content>.tab-pane{display:none}
+.tabs-x .tab-content>.active{display:block}
+.tabs-x .nav-link.disabled{pointer-events:auto;cursor:not-allowed}
+.tabs-x .nav-tabs{display:flex}
+.tabs-left {display:flex;align-items:start}
+.tabs-left .nav-tabs {height:100%;margin-left:0;margin-right:0}
+.tabs-left .tab-content,{height:100%;width:100%;border:none}
+.tabs-left .tab-content{margin-left:-.0625rem;border-left:1px solid rgb(221, 160, 221)}
+.tabs-left>.nav-tabs,.tabs-right>.nav-tabs{border-bottom:none;width:9rem}
+.tabs-left>.nav-tabs .nav-item{position:relative;width:100%}
+.tabs-left>.nav-tabs .nav-item>.nav-link{border-radius:.25rem 0 0 .25rem;white-space:nowrap}
+.tabs-left>.nav-tabs .nav-item>.nav-link.active{border-color:rgb(221, 160, 221) #fff rgb(221, 160, 221) rgb(221, 160, 221)}
 
 /*====================Footer======================*/
 
 footer {
- 
+
     background-size: contain;
     background-color:  #4B0082;
     background-position: center;
