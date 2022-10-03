@@ -86,8 +86,8 @@ nav {
 }
 
 .job-item {
-margin-left: auto;    margin-top: 5rem;
-
+    
+    margin-top: 5rem;
     border-radius: 3px;
     position: relative;
     margin-bottom: 30px;
