@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-white"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"tab",
+				"tabs-x"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"nav-G",
+				"nav-Gaming"
+			],
+			[
+				"All",
+				"All-tab"
+			],
+			[
+				"grid-templ",
+				"grid-template-columns"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"--",
+				"--color-plum"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"--c",
+				"--color-darkpruple"
+			],
+			[
+				"--color-",
+				"--color-darkpruple"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"--color",
+				"--color-violet"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Downloads/construction-company-website-template-free/css/style.css",
+		"/D/Downloads/construction-company-website-template-free/about.html",
+		"/C/Users/karee/Marzone/css/about_us.css",
+		"/C/Users/karee/Marzone/about_us.html",
+		"/C/Users/karee/Marzone/login.html",
+		"/D/Downloads/construction-company-website-template-free/index.html",
+		"/C/Users/karee/Marzone/css/LoginStyles.css",
+		"/C/Users/karee/Marzone/css/styles.css",
+		"/C/Users/karee/Marzone/index.html",
+		"/C/Users/karee/Marzone/segoe-ui-4-cufonfonts-webfont/style.css",
+		"/C/Users/karee/Marzone/space-boards-font/misc/READ THIS.txt",
+		"/C/Users/karee/Marzone/css/LoginStyles.txt",
+		"/D/Downloads/Jobs_tabs.html",
+		"/D/Downloads/bootstrap-tabs-x-master/bootstrap-tabs-x-master/examples/bs4.html",
+		"/D/Downloads/bootstrap-tabs-x-master/bootstrap-tabs-x-master/css/bootstrap-tabs-x-bs4.min.css",
+		"/C/Users/karee/Marzone/login.html.txt",
+		"/C/Users/karee/Marzone/js/bootstrap-tabs-x.min.js",
+		"/D/Downloads/bootstrap-tabs-x-master/bootstrap-tabs-x-master/css/bootstrap-tabs-x-bs4.css",
+		"/D/Downloads/bootstrap-tabs-x-master/bootstrap-tabs-x-master/css/bootstrap-tabs-x.min.css",
+		"/D/Downloads/bootstrap-tabs-x-master/bootstrap-tabs-x-master/css/bootstrap-tabs-x.css",
+		"/C/Users/karee/AppData/Local/Temp/Rar$DIa15088.49961/READ THIS.txt",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/js/bootstrap.bundle.min.js",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/css/linea-basic/styles.css",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/css/style.css",
+		"/C/Users/karee/Marzone/main.js",
+		"/C/Users/karee/Marzone/css/linea-basic/styles.css",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/index.html",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/css/all.min.css",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/css/bootstrap.min.css",
+		"/C/Users/karee/OneDrive/Desktop/exam1/exam1/css/bootstrap-icons.css",
+		"/D/Downloads/Sprints-Angular-Course-master/online-shop-website-template/cart.html",
+		"/D/Downloads/Sprints-Angular-Course-master/online-shop-website-template/js/main.js",
+		"/C/Users/karee/RuiningKing.github.io/index.html",
+		"/C/Users/karee/RuiningKing.github.io/style.css",
+		"/C/Users/karee/Marzone/css/styles.css.txt",
+		"/C/Users/karee/Marzone/About_us.html",
+		"/C/Users/karee/Marzone/Influencers.html",
+		"/C/Users/karee/New folder/index.html.txt",
+		"/C/Users/karee/New folder/Influencers.html.txt",
+		"/C/Users/karee/OneDrive/Desktop/E-COM-WEB-main/E-COM-WEB-main/styles.css",
+		"/C/Users/karee/OneDrive/Desktop/E-COM-WEB-main/E-COM-WEB-main/blog.html",
+		"/C/Users/karee/OneDrive/Desktop/E-COM-WEB-main/E-COM-WEB-main/index.html",
+		"/C/Users/karee/End/index.html",
+		"/C/Users/karee/End/styles/dark.css",
+		"/C/Users/karee/End/scripts/script.js",
+		"/C/Users/karee/coursera/js/script.js",
+		"/C/Users/karee/coursera/index.html",
+		"/C/Users/karee/Downloads/Compressed/Coursera-HTML-CSS-Javascript-for-Web-Developers-master/module5-solution/index.html",
+		"/C/Users/karee/Module/index.html",
+		"/C/Users/karee/coursera/css/bootstrap.min.css",
+		"/C/Users/karee/coursera/css/bootstrap.css",
+		"/C/Users/karee/coursera/css/styles.css",
+		"/C/Users/karee/coursera/js/SpeakHello.js",
+		"/C/Users/karee/coursera/js/SpeakGoodBye.js",
+		"/C/Users/karee/RuiningKing.github.io/css/style.css",
+		"/C/Users/karee/coursera-test/site/style.css",
+		"/C/Users/karee/coursera-test/site/style2.css",
+		"/C/Users/karee/coursera-test/site/style.css.css",
+		"/C/Users/karee/coursera-test/site/New folder/style2.css",
+		"/C/Users/karee/coursera-test/site/index.html",
+		"/C/Users/karee/Downloads/image.jpg",
+		"/C/Users/karee/OneDrive/Desktop/index1.html",
+		"/C/Users/karee/Downloads/peakpx (2).jpg"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "styles.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
